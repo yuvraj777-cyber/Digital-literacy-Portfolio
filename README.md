@@ -1,9 +1,9 @@
 # 📘 Digital Literacy Portfolio – CSE0001
 
-Name: Yuvraj Narode  
-Registration Number: 25BCY10129
-Course: CSE0001 Digital Literacy  
-University: VIT Bhopal University  
+* Name: Yuvraj Narode  
+* Registration Number: 25BCY10129
+* Course: CSE0001 Digital Literacy  
+* University: VIT Bhopal University  
 
 ---
 
